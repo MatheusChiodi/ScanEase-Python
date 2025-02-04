@@ -30,11 +30,7 @@ pip install opencv-python numpy pyzbar
 ## How to Run
 1. Clone the repository or copy the script.
 2. Open a terminal and navigate to the script's directory.
-3. Run the script using:
-   ```sh
-   python ScanEase
-.py
-   ```
+3. Run the script using: python barcode_scanner.py
 4. Click **"Start Scan"** to begin scanning barcodes.
 5. Press **'Q'** on the keyboard to exit.
 
@@ -51,14 +47,6 @@ pip install opencv-python numpy pyzbar
 - Built with **Tkinter** for a simple and intuitive UI.
 - Displays the detected barcode information.
 - Features buttons for **starting and exiting** the scanner.
-
-## Future Improvements
-- Support for QR codes
-- Cross-platform audio alerts
-- Export scanned data to a file
-
-## License
-This project is open-source and available under the MIT License.
 
 
 
